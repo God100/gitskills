@@ -5,3 +5,4 @@ Creating a new branch is quick and simple.
 Hello Java! Hello World!
 Hello HTML5!
 Hello JS!
+Hello Git!
