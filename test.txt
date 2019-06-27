@@ -6,3 +6,7 @@ Hello World!
 This is a test!
 Continue add test!
 I like java!
+Hello Java! Hello World!
+Hello HTML5!
+Hello JS!
+Hello Git!
